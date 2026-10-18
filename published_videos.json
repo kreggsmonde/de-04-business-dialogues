@@ -16,5 +16,14 @@
     "duration_min": 22.64,
     "video_file": "podcast_ep2_20261017_113814.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 3,
+    "topic": "Die Kunst der kritischen Rückmeldung: Konstruktiv führen, exzellent entwickeln",
+    "date": "2026-10-18T05:59:19.295381",
+    "duration_sec": 1479.79,
+    "duration_min": 24.66,
+    "video_file": "podcast_ep3_20261018_053635.mp4",
+    "platform": "Facebook"
   }
 ]
