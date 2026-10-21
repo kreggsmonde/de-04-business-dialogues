@@ -44,6 +44,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.75,
     "video_file": "podcast_ep5_20261020_054655.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 6,
+    "topic": "Die Kunst des stillen Einwand: Subtile Stimmungsänderungen und nonverbale Signale in wichtigen Verhandlungen erkennen und steuern",
+    "date": "2026-10-21T06:15:10.041008",
+    "duration_sec": 1501.15,
+    "duration_min": 25.02,
+    "video_file": "podcast_ep6_20261021_055059.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
