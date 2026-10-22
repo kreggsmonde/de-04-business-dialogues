@@ -52,5 +52,14 @@
     "duration_min": 25.02,
     "video_file": "podcast_ep6_20261021_055059.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 7,
+    "topic": "Die Kunst der strategischen Schweigsamkeit: Wann Reden Silber und Schweigen Gold ist",
+    "date": "2026-10-22T06:18:55.468127",
+    "duration_sec": 1562.83,
+    "duration_min": 26.05,
+    "video_file": "podcast_ep7_20261022_055348.mp4",
+    "platform": "Facebook"
   }
 ]
