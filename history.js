@@ -62,6 +62,15 @@ const PODCAST_HISTORY = [
     "duration_min": 26.05,
     "video_file": "podcast_ep7_20261022_055348.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 8,
+    "topic": "Die Kunst der strategischen Antwort: Präzision und Wirkung in entscheidenden Momenten",
+    "date": "2026-10-23T06:16:10.030157",
+    "duration_sec": 1388.95,
+    "duration_min": 23.15,
+    "video_file": "podcast_ep8_20261023_055208.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
