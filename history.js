@@ -80,6 +80,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.4,
     "video_file": "podcast_ep9_20261024_053507.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 10,
+    "topic": "Die Kunst des strategischen Rückzugs: Wann Loslassen Stärke beweist",
+    "date": "2026-10-25T06:13:40.561194",
+    "duration_sec": 1467.86,
+    "duration_min": 24.46,
+    "video_file": "podcast_ep10_20261025_055045.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
