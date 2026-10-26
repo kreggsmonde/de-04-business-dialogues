@@ -88,5 +88,14 @@
     "duration_min": 24.46,
     "video_file": "podcast_ep10_20261025_055045.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 11,
+    "topic": "Die Kunst der diplomatischen Eskalation: Konflikte souverän nach oben tragen",
+    "date": "2026-10-26T06:19:01.236669",
+    "duration_sec": 1522.8,
+    "duration_min": 25.38,
+    "video_file": "podcast_ep11_20261026_055333.mp4",
+    "platform": "Facebook"
   }
 ]
