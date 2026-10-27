@@ -98,6 +98,15 @@ const PODCAST_HISTORY = [
     "duration_min": 25.38,
     "video_file": "podcast_ep11_20261026_055333.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 12,
+    "topic": "Die Kunst der strategischen Unterbrechung: Klare Grenzen setzen, Gespräche lenken",
+    "date": "2026-10-27T06:28:12.713781",
+    "duration_sec": 1404.45,
+    "duration_min": 23.41,
+    "video_file": "podcast_ep12_20261027_060645.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
