@@ -106,5 +106,14 @@
     "duration_min": 23.41,
     "video_file": "podcast_ep12_20261027_060645.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 13,
+    "topic": "Die Kunst der indirekten Einflussnahme: Strategien subtiler Überzeugung im Führungsalltag",
+    "date": "2026-10-29T07:05:49.054280",
+    "duration_sec": 1303.8,
+    "duration_min": 21.73,
+    "video_file": "podcast_ep13_20261029_065204.mp4",
+    "platform": "Facebook"
   }
 ]
