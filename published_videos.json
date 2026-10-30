@@ -115,5 +115,14 @@
     "duration_min": 21.73,
     "video_file": "podcast_ep13_20261029_065204.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 14,
+    "topic": "Die Kunst der strategischen Allianz: Partnerschaften knüpfen und pflegen für gemeinsamen Erfolg",
+    "date": "2026-10-30T07:20:09.581488",
+    "duration_sec": 1473.14,
+    "duration_min": 24.55,
+    "video_file": "podcast_ep14_20261030_065603.mp4",
+    "platform": "Facebook"
   }
 ]
