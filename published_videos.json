@@ -124,5 +124,14 @@
     "duration_min": 24.55,
     "video_file": "podcast_ep14_20261030_065603.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 15,
+    "topic": "Die Kunst der strategischen Entschuldigung: Vertrauen wiederherstellen nach Fehlern im Management",
+    "date": "2026-10-31T07:10:45.109727",
+    "duration_sec": 1341.36,
+    "duration_min": 22.36,
+    "video_file": "podcast_ep15_20261031_065008.mp4",
+    "platform": "Facebook"
   }
 ]
