@@ -134,6 +134,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.36,
     "video_file": "podcast_ep15_20261031_065008.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 16,
+    "topic": "Die Kunst der strategischen Geduld: Erfolg durch bewusstes Zuwarten in Verhandlungen",
+    "date": "2026-11-01T07:30:19.451202",
+    "duration_sec": 1389.84,
+    "duration_min": 23.16,
+    "video_file": "podcast_ep16_20261101_071612.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
