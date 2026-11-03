@@ -152,6 +152,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.96,
     "video_file": "podcast_ep17_20261102_073026.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 18,
+    "topic": "Die Kunst der strategischen Akzeptanz: Zustimmung formell und informell meistern",
+    "date": "2026-11-03T08:07:39.243565",
+    "duration_sec": 1460.64,
+    "duration_min": 24.34,
+    "video_file": "podcast_ep18_20261103_074512.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
