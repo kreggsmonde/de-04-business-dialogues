@@ -161,6 +161,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.34,
     "video_file": "podcast_ep18_20261103_074512.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 19,
+    "topic": "Die Kunst des strategischen Nachhakens: Beharrlichkeit trifft Eleganz im Geschäftsleben",
+    "date": "2026-11-04T07:44:22.518266",
+    "duration_sec": 1463.71,
+    "duration_min": 24.4,
+    "video_file": "podcast_ep19_20261104_072237.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
