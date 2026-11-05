@@ -170,6 +170,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.4,
     "video_file": "podcast_ep19_20261104_072237.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 20,
+    "topic": "Die Kunst der strategischen Zugeständnisse: Souverän verhandeln, ohne zu viel zu geben",
+    "date": "2026-11-05T08:10:55.196557",
+    "duration_sec": 1351.82,
+    "duration_min": 22.53,
+    "video_file": "podcast_ep20_20261105_074915.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
