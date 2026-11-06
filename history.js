@@ -179,6 +179,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.53,
     "video_file": "podcast_ep20_20261105_074915.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 21,
+    "topic": "Die Kunst der strategischen Informationskontrolle: Wissen als Waffe im Geschäftsleben",
+    "date": "2026-11-06T08:07:20.453288",
+    "duration_sec": 1372.58,
+    "duration_min": 22.88,
+    "video_file": "podcast_ep21_20261106_074826.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
