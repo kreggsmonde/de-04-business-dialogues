@@ -197,6 +197,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.85,
     "video_file": "podcast_ep22_20261107_065611.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 23,
+    "topic": "Die Kunst der strategischen Distanzierung: Emotionen managen und professionelle Grenzen wahren",
+    "date": "2026-11-08T07:24:33.323204",
+    "duration_sec": 1366.2,
+    "duration_min": 22.77,
+    "video_file": "podcast_ep23_20261108_070250.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
