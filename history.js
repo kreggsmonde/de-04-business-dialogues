@@ -206,6 +206,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.77,
     "video_file": "podcast_ep23_20261108_070250.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 24,
+    "topic": "Die Kunst der strategischen Annahme: Erfolgreiche Positionierung durch geschicktes Ja-Sagen",
+    "date": "2026-11-09T08:08:56.652053",
+    "duration_sec": 1366.87,
+    "duration_min": 22.78,
+    "video_file": "podcast_ep24_20261109_074811.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
