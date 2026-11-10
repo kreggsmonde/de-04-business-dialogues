@@ -214,5 +214,14 @@
     "duration_min": 22.78,
     "video_file": "podcast_ep24_20261109_074811.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 25,
+    "topic": "Die Kunst der strategischen Agenda-Umleitung: Wenn Pläne scheitern, wie Sie das Ruder herumreißen",
+    "date": "2026-11-10T08:21:08.327000",
+    "duration_sec": 1290.07,
+    "duration_min": 21.5,
+    "video_file": "podcast_ep25_20261110_080818.mp4",
+    "platform": "Facebook"
   }
 ]
