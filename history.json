@@ -223,5 +223,14 @@
     "duration_min": 21.5,
     "video_file": "podcast_ep25_20261110_080818.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 26,
+    "topic": "Die Kunst des strategischen Nachgebens: Wann Zurückhaltung zum Sieg führt",
+    "date": "2026-11-11T07:55:49.530437",
+    "duration_sec": 1365.93,
+    "duration_min": 22.77,
+    "video_file": "podcast_ep26_20261111_073813.mp4",
+    "platform": "Facebook"
   }
 ]
