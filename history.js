@@ -233,6 +233,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.77,
     "video_file": "podcast_ep26_20261111_073813.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 27,
+    "topic": "Die Kunst des strategischen Schweigens: Die Macht der Pause in entscheidenden Momenten",
+    "date": "2026-11-12T08:19:19.788409",
+    "duration_sec": 1434.79,
+    "duration_min": 23.91,
+    "video_file": "podcast_ep27_20261112_080457.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
