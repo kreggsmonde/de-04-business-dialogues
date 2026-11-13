@@ -242,6 +242,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.91,
     "video_file": "podcast_ep27_20261112_080457.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 28,
+    "topic": "Die Kunst des strategischen Vorbehalts: Zustimmung mit Hintertür",
+    "date": "2026-11-13T07:57:48.729614",
+    "duration_sec": 1446.77,
+    "duration_min": 24.11,
+    "video_file": "podcast_ep28_20261113_074307.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
