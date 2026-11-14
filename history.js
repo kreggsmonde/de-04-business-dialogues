@@ -251,6 +251,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.11,
     "video_file": "podcast_ep28_20261113_074307.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 29,
+    "topic": "Die Kunst der strategischen Lücke: Unsicherheit als Verhandlungsinstrument meistern",
+    "date": "2026-11-14T07:42:43.430551",
+    "duration_sec": 1316.97,
+    "duration_min": 21.95,
+    "video_file": "podcast_ep29_20261114_072909.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
