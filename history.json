@@ -259,5 +259,14 @@
     "duration_min": 21.95,
     "video_file": "podcast_ep29_20261114_072909.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 30,
+    "topic": "Die Kunst der diplomatischen Abweichung: Wie Sie Ziele neu definieren, ohne das Vertrauen zu verlieren",
+    "date": "2026-11-15T07:58:10.547284",
+    "duration_sec": 1367.11,
+    "duration_min": 22.79,
+    "video_file": "podcast_ep30_20261115_074202.mp4",
+    "platform": "Facebook"
   }
 ]
