@@ -269,6 +269,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.79,
     "video_file": "podcast_ep30_20261115_074202.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 31,
+    "topic": "Die Kunst der strategischen Brückenbauer: Konflikte in Meetings deeskalieren und Konsens schaffen",
+    "date": "2026-11-16T08:08:26.664107",
+    "duration_sec": 1306.85,
+    "duration_min": 21.78,
+    "video_file": "podcast_ep31_20261116_074720.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
