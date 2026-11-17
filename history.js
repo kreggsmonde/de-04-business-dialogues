@@ -278,6 +278,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.78,
     "video_file": "podcast_ep31_20261116_074720.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 32,
+    "topic": "Die Kunst der strategischen Neuausrichtung: Flexibel auf Kursänderungen im Top-Management reagieren",
+    "date": "2026-11-17T09:16:23.171912",
+    "duration_sec": 1282.65,
+    "duration_min": 21.38,
+    "video_file": "podcast_ep32_20261117_085620.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
