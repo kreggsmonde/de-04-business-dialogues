@@ -287,6 +287,15 @@ const PODCAST_HISTORY = [
     "duration_min": 21.38,
     "video_file": "podcast_ep32_20261117_085620.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 33,
+    "topic": "Die Kunst der strategischen Neuverhandlung: Wenn das erste 'Ja' zum neuen Ausgangspunkt wird",
+    "date": "2026-11-18T08:35:32.428893",
+    "duration_sec": 1440.45,
+    "duration_min": 24.01,
+    "video_file": "podcast_ep33_20261118_082117.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
