@@ -296,6 +296,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.01,
     "video_file": "podcast_ep33_20261118_082117.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 34,
+    "topic": "Die Kunst der strategischen Vorwarnung: Krisenkommunikation im Top-Management meistern",
+    "date": "2026-11-19T08:53:06.568846",
+    "duration_sec": 1357.25,
+    "duration_min": 22.62,
+    "video_file": "podcast_ep34_20261119_083602.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
