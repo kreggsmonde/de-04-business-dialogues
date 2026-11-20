@@ -305,6 +305,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.62,
     "video_file": "podcast_ep34_20261119_083602.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 35,
+    "topic": "Die Kunst der strategischen Informationsstreuung: Gezieltes Teilen von Wissen im Top-Management",
+    "date": "2026-11-20T08:33:33.558711",
+    "duration_sec": 1444.51,
+    "duration_min": 24.08,
+    "video_file": "podcast_ep35_20261120_081502.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
