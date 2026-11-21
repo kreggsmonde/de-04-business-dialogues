@@ -314,6 +314,15 @@ const PODCAST_HISTORY = [
     "duration_min": 24.08,
     "video_file": "podcast_ep35_20261120_081502.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 36,
+    "topic": "Die Kunst der strategischen Umdeutung: Positive Narrative im Krisenmanagement etablieren",
+    "date": "2026-11-21T08:27:16.858649",
+    "duration_sec": 1412.49,
+    "duration_min": 23.54,
+    "video_file": "podcast_ep36_20261121_080906.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
