@@ -323,6 +323,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.54,
     "video_file": "podcast_ep36_20261121_080906.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 37,
+    "topic": "Die Kunst der strategischen Einladung: Wie Sie Stakeholder proaktiv ins Boot holen",
+    "date": "2026-11-22T08:10:25.375303",
+    "duration_sec": 1362.98,
+    "duration_min": 22.72,
+    "video_file": "podcast_ep37_20261122_075324.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
