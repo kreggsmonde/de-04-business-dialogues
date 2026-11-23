@@ -331,5 +331,14 @@
     "duration_min": 22.72,
     "video_file": "podcast_ep37_20261122_075324.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 38,
+    "topic": "Die Kunst der strategischen Informationsasymmetrie: Wissen als Machtinstrument im Top-Management",
+    "date": "2026-11-23T09:05:06.164067",
+    "duration_sec": 1338.38,
+    "duration_min": 22.31,
+    "video_file": "podcast_ep38_20261123_084738.mp4",
+    "platform": "Facebook"
   }
 ]
