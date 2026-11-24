@@ -341,6 +341,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.31,
     "video_file": "podcast_ep38_20261123_084738.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 39,
+    "topic": "Die Kunst der strategischen Stille: Die Macht des Nicht-Sagens im Top-Management",
+    "date": "2026-11-24T11:03:11.576618",
+    "duration_sec": 1391.49,
+    "duration_min": 23.19,
+    "video_file": "podcast_ep39_20261124_104628.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
