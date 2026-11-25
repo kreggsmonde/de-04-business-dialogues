@@ -350,6 +350,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.19,
     "video_file": "podcast_ep39_20261124_104628.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 40,
+    "topic": "Die Kunst der strategischen Kurskorrektur: Wie Sie mit unerwarteten Wendungen souverän umgehen",
+    "date": "2026-11-25T09:57:38.567138",
+    "duration_sec": 1237.82,
+    "duration_min": 20.63,
+    "video_file": "podcast_ep40_20261125_094201.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
