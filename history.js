@@ -359,6 +359,15 @@ const PODCAST_HISTORY = [
     "duration_min": 20.63,
     "video_file": "podcast_ep40_20261125_094201.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 41,
+    "topic": "Die Kunst der strategischen Lösungsfindung: Unerwartete Probleme in Erfolge verwandeln",
+    "date": "2026-11-26T09:39:51.530698",
+    "duration_sec": 1344.12,
+    "duration_min": 22.4,
+    "video_file": "podcast_ep41_20261126_091741.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
