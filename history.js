@@ -368,6 +368,15 @@ const PODCAST_HISTORY = [
     "duration_min": 22.4,
     "video_file": "podcast_ep41_20261126_091741.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 42,
+    "topic": "Die Kunst der strategischen Eskalation: Wann und wie man Probleme nach oben trägt",
+    "date": "2026-11-27T09:51:06.062132",
+    "duration_sec": 1411.82,
+    "duration_min": 23.53,
+    "video_file": "podcast_ep42_20261127_093242.mp4",
+    "platform": "Facebook"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
