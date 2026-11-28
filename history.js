@@ -377,6 +377,15 @@ const PODCAST_HISTORY = [
     "duration_min": 23.53,
     "video_file": "podcast_ep42_20261127_093242.mp4",
     "platform": "Facebook"
+  },
+  {
+    "episode": 43,
+    "topic": "Die Kunst der strategischen Projektion: Zukunftsbilder entwerfen und Stakeholder überzeugen",
+    "date": "2026-11-28T08:59:18.569633",
+    "duration_sec": 1449.36,
+    "duration_min": 24.16,
+    "video_file": "podcast_ep43_20261128_084601.mp4",
+    "platform": "None"
   }
 ];
 if (typeof module !== 'undefined' && module.exports) { module.exports = PODCAST_HISTORY; }
